@@ -1,6 +1,27 @@
-
+/* google font style */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
 /* header part */
 
 .honda-cbr{
     background-color: #264653;
+}
+
+/* <!-- Fetured Bikes 2021--> */
+
+.best-bike{
+    color: #E76F51;
+}
+.glace{
+    filter: grayscale(100%);
+}
+.glace:hover{
+    filter: none;
+}
+
+/* happy clients part style */
+.title-clients{
+    color: #E76F51;
 }
