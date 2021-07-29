@@ -28,3 +28,14 @@ body{
 .fa-star {
     color: #E76F51;
 }
+
+
+/* bonus part 2 */
+.subscribe{
+    background-color: #51aa1b;
+    height: 260px;
+}
+.fa-envelope{
+    font-size: 5rem;
+    color: white;
+}
