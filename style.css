@@ -28,21 +28,12 @@ body{
 .fa-star {
     color: #E76F51;
 }
-.sabrina{
-    height: 149px;
-    width: 149px;
-    border-radius: 50%;
 
-
-}
-
-
-/* bonus part 2 */
+/* bonus part 2 subscribe*/
 .subscribe{
     background-color: #51aa1b;
-    /* height: 17rem; */
 }
 .fa-envelope{
-    font-size: 5rem;
+    font-size: 6rem;
     color: white;
 }
