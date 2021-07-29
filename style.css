@@ -33,7 +33,7 @@ body{
 /* bonus part 2 */
 .subscribe{
     background-color: #51aa1b;
-    height: 260px;
+    /* height: 17rem; */
 }
 .fa-envelope{
     font-size: 5rem;
